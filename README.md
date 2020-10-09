@@ -1,4 +1,4 @@
-# gastronomy/perception
+# 3DQNets
 
 This repository contains the code release for: **3D Object Recognition By Corresponding and QuantizingNeural 3D Scene Representations**.
 
