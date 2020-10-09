@@ -1,0 +1,3 @@
+[submodule "3dblender"]
+	path = 3dblender
+	url = https://github.com/mihirp1998/3dblender.git
